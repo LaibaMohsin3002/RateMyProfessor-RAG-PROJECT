@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Data Structures",
+        "stars": 5,
+        "review": "Dr. Carter explains complex topics with ease and always encourages students to ask questions."
+      },
+      {
+        "professor": "Prof. Michael Smith",
+        "subject": "Operating Systems",
+        "stars": 4,
+        "review": "Great lectures, but the exams are challenging. Make sure to keep up with the readings."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Artificial Intelligence",
+        "stars": 3,
+        "review": "Interesting content, but her pace can be a bit fast. Be prepared to do a lot of self-study."
+      },
+      {
+        "professor": "Prof. John Williams",
+        "subject": "Database Systems",
+        "stars": 5,
+        "review": "Excellent professor with deep knowledge of the subject. His assignments are very practical."
+      },
+      {
+        "professor": "Dr. Jessica Brown",
+        "subject": "Algorithms",
+        "stars": 4,
+        "review": "She provides great examples in class, but the homework can be quite tough."
+      },
+      {
+        "professor": "Prof. David Jones",
+        "subject": "Software Engineering",
+        "stars": 2,
+        "review": "His lectures are a bit dry and not very engaging, but he is approachable during office hours."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Computer Networks",
+        "stars": 5,
+        "review": "She makes networking concepts easy to understand and her labs are very hands-on."
+      },
+      {
+        "professor": "Prof. James Miller",
+        "subject": "Discrete Mathematics",
+        "stars": 3,
+        "review": "Math-heavy course, and his teaching style is a bit too theoretical. Would appreciate more examples."
+      },
+      {
+        "professor": "Dr. Lisa Davis",
+        "subject": "Machine Learning",
+        "stars": 4,
+        "review": "Very knowledgeable and her research insights are invaluable. However, the coursework is demanding."
+      },
+      {
+        "professor": "Prof. Christopher Wilson",
+        "subject": "Computer Graphics",
+        "stars": 5,
+        "review": "Amazing class! His projects are creative and push you to apply what you've learned."
+      },
+      {
+        "professor": "Dr. Karen Martinez",
+        "subject": "Theory of Computation",
+        "stars": 3,
+        "review": "Challenging subject matter, but she tries her best to make it accessible. The exams are tough."
+      },
+      {
+        "professor": "Prof. Richard Anderson",
+        "subject": "Human-Computer Interaction",
+        "stars": 4,
+        "review": "Engaging lectures and interactive projects. A must-take if you're interested in UX/UI."
+      },
+      {
+        "professor": "Dr. Nancy Clark",
+        "subject": "Cybersecurity",
+        "stars": 5,
+        "review": "Fantastic professor with real-world experience. Her case studies are particularly insightful."
+      },
+      {
+        "professor": "Prof. Daniel Garcia",
+        "subject": "Parallel Computing",
+        "stars": 2,
+        "review": "Content is interesting, but his explanations can be confusing. Labs are poorly organized."
+      },
+      {
+        "professor": "Dr. Laura Robinson",
+        "subject": "Embedded Systems",
+        "stars": 4,
+        "review": "She is very thorough and her labs are challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Robert Lewis",
+        "subject": "Compiler Design",
+        "stars": 3,
+        "review": "The content is difficult and his lectures aren't very engaging. However, he is helpful during office hours."
+      },
+      {
+        "professor": "Dr. Maria Walker",
+        "subject": "Natural Language Processing",
+        "stars": 5,
+        "review": "Incredibly passionate about the subject. Her assignments are tough but very educational."
+      },
+      {
+        "professor": "Prof. Paul Hall",
+        "subject": "Game Development",
+        "stars": 4,
+        "review": "Very creative class, and he encourages you to think outside the box. The final project is fun but demanding."
+      },
+      {
+        "professor": "Dr. Sandra Young",
+        "subject": "Quantum Computing",
+        "stars": 3,
+        "review": "Fascinating subject, but the material is very advanced. She tries her best to simplify it."
+      },
+      {
+        "professor": "Prof. Charles King",
+        "subject": "Ethical Hacking",
+        "stars": 4,
+        "review": "Engaging and hands-on. He provides a lot of real-world examples, but the pace is fast."
+      }
+    ]
+  }
+  
